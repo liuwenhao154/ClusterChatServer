@@ -90,7 +90,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -g -std=gnu++17"
+					"fragment" : "-g -std=gnu++17"
 				}
 			],
 			"includes" : 
@@ -149,7 +149,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g -g",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{

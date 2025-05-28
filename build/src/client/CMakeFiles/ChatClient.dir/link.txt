@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ChatClient.dir/main.cpp.o -o /home/wenhao/code/CHAT/ClusterChatServer/bin/ChatClient   -L/usr/local/lib/muduo  -Wl,-rpath,/usr/local/lib/muduo -lpthread 
